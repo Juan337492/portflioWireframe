@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+  }
+.hamburgerMenu{
+ width: 50px;
+ height: 50px;
+ float: right;
+ margin: 20px;
+}
+#menuText{
+float: right;
+vertical-align: middle;
+margin-top: 40px;
+color: #729fcf;
+font-size: 20px;
+}
+.colorBlue{
+color: #729fcf;
+}
+.headline{
+margin-top: 315px;
+text-align: center;
+text-decoration: underline;
+font-size: 55px;
+}
+.bio{
+  background-color: #729fcf;
+  height: 750px;
+  margin-top: 450px;
+  color: white;
+  font-size: 50px;
+  margin-bottom: 250px;
+}
+.nav{
+  margin-right: 100px;
+}
+.footer{
+  margin-top: 100px;
+  background-color: black;
+  color: white;
+  height: 300px;
+}
+.email{
+padding-left: 200px;
+font-size: 25px;
+}
+.githubWhite{
+  float: right;
+  padding-right: 150px;
+}
+.arrowUp{
+  width: 80px;
+  height: 60px;
+  margin-left: 50%;
+  margin-right: 50%;
+  margin-top: 140px;
+}
+.footerContent{
+  font-size: 25px;
+  text-align: center;
+  padding-top: 20px;
+}
+/*css for menu.html*/
+.navMenu{
+  height: 910px;
+  width: 100%;
+}
+.topSection{
+  height: 50%;
+  width: 100%;
+  background-color: #729fcf;
+}
+.bottomSection{
+  height: 50%;
+  width: 100%;
+  background-color: black;
+}
+.menu{
+  list-style: none;
+  color: white;
+  text-align: center;
+  padding-top: 17em;
+}
+.list{
+  margin-bottom:1em;
+  text-decoration: underline;
+  font-size: 35px;
+  
+}
+.closeMenu{
+  width: 7em;
+  height: 7em;
+  float: right;
+  padding-top: 3em;
+  padding-right: 3em;
+}
+.menuText{
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
+a{
+  color: white;
+}
